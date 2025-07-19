@@ -2,6 +2,8 @@
 
 This repository serves as a template for creating Azure Functions projects using F# with .NET 9 and the [isolated process model](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences). It provides a basic structure and a simple "ping" function to get you started.
 
+Azure provides [official templates](https://github.com/Azure/azure-functions-templates/tree/dev) however due to a long-standing [bug](https://github.com/Azure/azure-functions-core-tools/issues/3171) in the `func` CLI. The F# templates won't be generated. They templates repo still prodives examples of the various kinds of triggers that can be used by Azure Functions.
+
 ## Getting Started
 
 1. **Clone this repository:**
