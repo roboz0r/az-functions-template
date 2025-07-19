@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Robert Lenders</Authors>
+    <Copyright>Copyright (c) Robert Lenders 2025</Copyright>
+    <PackageVersion>1.0.0</PackageVersion>
+    <RepositoryUrl>https://github.com/roboz0r/az-functions-template</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/roboz0r/az-functions-template</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsAsErrors />
+  </PropertyGroup>
+  <PropertyGroup>
+    <DisableImplicitFSharpCoreReference>true</DisableImplicitFSharpCoreReference>
+  </PropertyGroup>
+</Project>

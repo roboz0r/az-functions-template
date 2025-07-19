@@ -1,0 +1,6 @@
+obj/
+bin/
+
+# Local settings file for Azure Functions
+# This file is used for local development and should not be deployed to production.
+local.settings.json
